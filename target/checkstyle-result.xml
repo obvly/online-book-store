@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/Users/obvly/online-book-store/src/main/java/com/example/demo/repository/BookRepositoryImpl.java">
+</file>
+<file name="/Users/obvly/online-book-store/src/main/java/com/example/demo/repository/BookRepository.java">
+</file>
+<file name="/Users/obvly/online-book-store/src/main/java/com/example/demo/model/Book.java">
+</file>
+<file name="/Users/obvly/online-book-store/src/main/java/com/example/demo/service/BookServiceImpl.java">
+</file>
+<file name="/Users/obvly/online-book-store/src/main/java/com/example/demo/service/BookService.java">
+</file>
+<file name="/Users/obvly/online-book-store/src/main/java/com/example/demo/DemoApplication.java">
+</file>
+<file name="/Users/obvly/online-book-store/src/main/resources/application.properties">
+</file>
+<file name="/Users/obvly/online-book-store/src/test/resources/application.properties">
+</file>
+</checkstyle>
