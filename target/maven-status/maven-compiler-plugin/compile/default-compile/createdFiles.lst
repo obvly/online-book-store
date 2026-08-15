@@ -1,6 +1,0 @@
-com/example/demo/DemoApplication.class
-com/example/demo/repository/BookRepository.class
-com/example/demo/model/Book.class
-com/example/demo/repository/BookRepositoryImpl.class
-com/example/demo/service/BookServiceImpl.class
-com/example/demo/service/BookService.class
