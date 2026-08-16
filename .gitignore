@@ -7,7 +7,7 @@ target/
 # Logs
 *.log
 
-# IntelliJ IDEA (полное игнорирование настроек IDE)
+# IntelliJ IDEA
 .idea/
 *.iml
 out/
